@@ -1,7 +1,3 @@
-/**
- * @Group-4 : Mausam Shrestha, Suyog Joshi, Simant Guragai
- *
- */
 package auction;
 
 import java.io.Serializable;

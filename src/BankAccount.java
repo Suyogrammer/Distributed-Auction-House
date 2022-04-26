@@ -1,7 +1,4 @@
-/**
- * @Group-4 : Mausam Shrestha, Suyog Joshi, Simant Guragai
- *
- */package auction;
+package auction;
 
 
 /**
